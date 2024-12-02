@@ -10,8 +10,8 @@ body{
 }
 .nav_menu ul li a{
     color: #fff;
-    font-size: 1.1rem;
-    font-weight: 500;
+    font-size: 1rem;
+    font-weight: bold;
     transition: linear 0.4s;
     
 }
@@ -25,7 +25,7 @@ body{
     color: #fff;
 }
 .hero_section_content p{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: #fff;
 }
 .hero_section_content h2{
@@ -58,7 +58,7 @@ body{
     font-weight: bold;
 }
 .about_section_content p{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: #fff;
 }
 .services_top h2{
@@ -67,7 +67,7 @@ body{
     font-weight: bold;
 }
 .services_top p{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: #fff;
 }
 .services_card{
@@ -81,7 +81,7 @@ body{
     font-weight: bold; 
 }
 .projects_top p{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: #fff;
 }
 .h_line{
@@ -95,7 +95,7 @@ body{
     color: #FD6F00;
     font-weight: bold;
 }
-.projects_text h5{
+.projects_text p{
     color: #fff;
 }
 .test_top h2{
@@ -104,11 +104,11 @@ body{
     font-weight: bold; 
 }
 .test_top p{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: #fff;
 }
 .text_content_right p{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 .text_content_right b{
     color: #FD6F00;
@@ -124,7 +124,7 @@ body{
     font-weight: bold;
 }
 .contact_top p{
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: #fff;
 }
 #terminal{
@@ -170,7 +170,7 @@ body{
 }
 .bottom p{
     color: #fff;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     font-weight: 600;
 }
 .bottom a{
